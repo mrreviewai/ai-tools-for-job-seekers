@@ -34,6 +34,7 @@
 | [ChatGPT](https://chat.openai.com) | Tailor your resume to any job description | Free |
 | [Grammarly](https://grammarly.com) | Catch every grammar and tone mistake | Free tier |
 | [Jobscan](https://jobscan.co) | Match your resume to job descriptions, beat ATS | Free tier |
+| [ResumeAI](https://withresumeai.com/) | AI resume builder + free ATS checks (3/day anonymous, 10/day free account) + State of ATS 2026 dataset | Free tier |
 
 **Free resume stack:** Teal + ChatGPT + Grammarly + Jobscan = ATS-optimized resume at $0
 
