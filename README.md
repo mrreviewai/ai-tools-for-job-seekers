@@ -53,6 +53,7 @@
 | [Wellfound](https://wellfound.com) | Startup jobs — equity + salary shown upfront | Free |
 | [Perplexity AI](https://perplexity.ai) | Research companies before applying | Free tier |
 | [Glassdoor](https://glassdoor.com) | Company reviews, salary data, interview insights | Free tier |
+| [Keel](https://github.com/KeelDev-tech/keel) | Open-core job-application autopilot with a truthfulness contract: it only ever claims what you tell it is true, never invents qualifications | Free |
 
 **Free job search stack:** Simplify + LinkedIn + Otta + Perplexity = apply smarter, not more
 
